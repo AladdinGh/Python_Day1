@@ -2,6 +2,8 @@ def calculator():
     """A simple calculator that takes two numbers and an operand."""
     print("\n🧮 Basic Calculator\n")
     
+
+    
     try:
         # Get first number
         num1 = float(input("Enter first number: "))

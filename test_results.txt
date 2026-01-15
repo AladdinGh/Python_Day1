@@ -1,0 +1,53 @@
+test_edge_cases (__main__.TestIsPrime.test_edge_cases)
+Test edge cases ... ok
+test_large_non_primes (__main__.TestIsPrime.test_large_non_primes)
+Test larger non-prime numbers ... ok
+test_large_primes (__main__.TestIsPrime.test_large_primes)
+Test larger prime numbers ... ok
+test_negative_numbers (__main__.TestIsPrime.test_negative_numbers)
+Test that negative numbers are not prime ... ok
+test_non_prime_numbers (__main__.TestIsPrime.test_non_prime_numbers)
+Test that known non-prime numbers return False ... ok
+test_prime_numbers (__main__.TestIsPrime.test_prime_numbers)
+Test that known prime numbers return True ... ok
+test_find_primes_1_to_10 (__main__.TestFindPrimes.test_find_primes_1_to_10)
+Test finding primes between 1 and 10 ... ok
+test_find_primes_1_to_20 (__main__.TestFindPrimes.test_find_primes_1_to_20)
+Test finding primes between 1 and 20 ... ok
+test_find_primes_1_to_250 (__main__.TestFindPrimes.test_find_primes_1_to_250)
+Test finding primes between 1 and 250 ... ok
+test_find_primes_no_duplicates (__main__.TestFindPrimes.test_find_primes_no_duplicates)
+Test that there are no duplicate primes ... ok
+test_find_primes_ordered (__main__.TestFindPrimes.test_find_primes_ordered)
+Test that primes are returned in ascending order ... ok
+test_find_primes_range_all_prime (__main__.TestFindPrimes.test_find_primes_range_all_prime)
+Test range where all numbers are prime ... ok
+test_find_primes_range_no_primes (__main__.TestFindPrimes.test_find_primes_range_no_primes)
+Test range with no primes ... ok
+test_find_primes_returns_list (__main__.TestFindPrimes.test_find_primes_returns_list)
+Test that find_primes returns a list ... ok
+test_find_primes_single_number_not_prime (__main__.TestFindPrimes.test_find_primes_single_number_not_prime)
+Test single number that is not prime ... ok
+test_find_primes_single_number_prime (__main__.TestFindPrimes.test_find_primes_single_number_prime)
+Test single number that is prime ... ok
+test_all_others_odd (__main__.TestPrimeProperties.test_all_others_odd)
+All primes except 2 should be odd ... ok
+test_all_primes_greater_than_1 (__main__.TestPrimeProperties.test_all_primes_greater_than_1)
+All primes should be greater than 1 ... ok
+test_even_primes_only_2 (__main__.TestPrimeProperties.test_even_primes_only_2)
+Only 2 should be an even prime ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.003s
+
+OK
+
+======================================================================
+TEST SUMMARY
+======================================================================
+Tests Run: 19
+Successes: 19
+Failures: 0
+Errors: 0
+
+RESULT: ALL TESTS PASSED (PASS)
